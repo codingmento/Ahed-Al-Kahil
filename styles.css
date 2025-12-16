@@ -481,7 +481,7 @@ footer {
     }
 
     canvas {
-        max-width: 250px;
+        max-width: 300px;
 
         height: 200px;
         /* ارتفاع الرسم */
@@ -568,3 +568,4 @@ footer {
     transform: scale(1);
 
 }
+
